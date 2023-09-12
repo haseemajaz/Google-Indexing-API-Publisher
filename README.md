@@ -1,6 +1,8 @@
 # Google-Indexing-API-Publisher
 Python script designed to simplify the process of submitting URLs to Google's Indexing API for faster and more efficient website indexing. This tool is particularly useful for web developers, SEO professionals, and website owners who want to ensure that their website's content is quickly discovered and updated in Google's search results.
 
+_**Must include Title "URL" in the box **[A1]** that is first row of first column. The indexing will not be completed without it.**_
+
 **Features**
 Easy-to-Use Interface: The script provides a user-friendly graphical interface built with tkinter, making it accessible to both technical and non-technical users.
 
