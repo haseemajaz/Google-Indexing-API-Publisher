@@ -31,7 +31,7 @@ We welcome contributions from the open-source community! If you have suggestions
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Disclaimer
+**Disclaimer**
 Please note that using the Google Indexing API may be subject to rate limits and other restrictions imposed by Google. Ensure that you comply with Google's policies and terms of use when using this tool.
 
-Give your website the advantage of rapid indexing with the Google Indexing API Publisher. Start using this tool today to enhance your website's search visibility and keep your content up-to-date in Google's search results.
+_Give your website the advantage of rapid indexing with the Google Indexing API Publisher. Start using this tool today to enhance your website's search visibility and keep your content up-to-date in Google's search results._
