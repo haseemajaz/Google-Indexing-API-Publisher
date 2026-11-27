@@ -21,7 +21,7 @@ Set up a Google Service Account and obtain the JSON key file. Follow the instruc
 
 Prepare an Excel file (.xlsx) containing a list of URLs that you want to submit for indexing. Make sure the file has a column named "URL" with the URLs you want to submit.
 
-Run the script by executing the main.py file. The script will prompt you to select the JSON key file and the Excel file with the URLs.
+Run the script by executing the bulk indexing.py file. The script will prompt you to select the JSON key file and the Excel file with the URLs.
 
 The script will then process your request, submit the URLs to the Google Indexing API, and provide feedback on the indexing status.
 
